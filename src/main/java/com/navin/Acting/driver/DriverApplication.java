@@ -1,13 +1,13 @@
-package com.navin.Acting.Acting;
+package com.navin.Acting.driver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ActingApplication {
+public class DriverApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ActingApplication.class, args);
+		SpringApplication.run(DriverApplication.class, args);
 	}
 
 }
