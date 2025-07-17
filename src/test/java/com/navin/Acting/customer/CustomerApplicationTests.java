@@ -1,10 +1,10 @@
-package com.navin.Acting.Acting;
+package com.navin.Acting.customer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ActingApplicationTests {
+class CustomerApplicationTests {
 
 	@Test
 	void contextLoads() {
